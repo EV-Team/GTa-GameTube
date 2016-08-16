@@ -12,7 +12,7 @@ ________________
 
 Commands For Sudo, Admin, and Mods:
 
-/set (مبلغی یا اعتبار فرد) (نام فرد)
+```/set (مبلغی یا اعتبار فرد) (نام فرد)
 
 ℹبرای تعیین مبلغ افراد در بازیℹ
 
@@ -29,7 +29,7 @@ Commands For Sudo, Admin, and Mods:
 
 shop
 
-ℹبرای نمایش فروشگاهℹ
+ℹبرای نمایش فروشگاهℹ```
 
 
 For See Another Commands, Join This Channel:
