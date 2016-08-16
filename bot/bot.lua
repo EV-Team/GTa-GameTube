@@ -211,6 +211,13 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
+      "Shop",
+      "broadcast",
+      "delshop",
+      "etebar",
+      "mute",
+      "muteall",
+      "set",
       "groupcontrol",
       "invite",
       "membercontrol",
