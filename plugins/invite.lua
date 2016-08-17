@@ -83,8 +83,8 @@ return {
   		},
   	},
   patterns = {
-    "^/(invite) (.*)$",
-    "^/(invite)$",
+    "^[!#/](invite) (.*)$",
+    "^[!#/](invite)$",
   }, 
   run = run,
   moderated = true 
