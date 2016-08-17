@@ -663,8 +663,8 @@ return {
           },
       },
   patterns = {
-    "^/(modadd)$",
-    "^/(modrem)$",
+    "^/(addmod)$",
+    "^/(remmod)$",
     "^/(spromote) (.*)$",
     "^/(spromote)$",
     "^/(sdemote) (.*)$",
@@ -678,8 +678,8 @@ return {
     "^/(inmanager) (.*)$",
     "^/(inmanager)",
     "^/(modlist)$",
-    "^/(adminprom) (.*)$", -- sudoers only
-    "^/(admindem) (.*)$", -- sudoers only
+    "^/(addadmin) (.*)$", -- sudoers only
+    "^/(deladmin) (.*)$", -- sudoers only
     "^/(adminlist)$",
     "^!!tgservice (chat_add_user)$",
     "^!!tgservice (chat_created)$",
